@@ -9,22 +9,22 @@ Here you can see the different iterations i created during this class and an exp
 This was the first prototype of this project. I wanted to translate the sounds to visual que's. So i created some css animations to change the background color based on the loudness and sharpness of the sounds.
 I also tried to layer the font's with opacity. The closest speaker to the audience has his opacity set to 1. The furtest speaker has his opacity set to 0.5.
 
-![proto1](image1.png "proto1")
+![proto1](https://github.com/superstephan1/web-typografie-19-20/blob/master/1x/proto1.png "proto1")
 
 The main feedback i got on this prototype was that it was to sublte. The audio cue's were very good however Vasilis told me that it could be way more extreme and colorful. 
 
 ### Prototype 2
 With this prototype i took all of the feedback onboard. I improved readability by changing the colors of the subtitles between the characters and i linked certain sounds to colors.  
 
-![proto2](image1.png "proto2")
+![proto2](https://github.com/superstephan1/web-typografie-19-20/blob/master/1x/proto2.png "proto2")
 
 The main feedback i got on this prototype was that while the colors are okay now and it is clear that it's an alarm going off. the image feels a bit static. I also needed to play around a bit more with the font. that part of the prototype is a bit lacking compared to the other parts.
 
 ### Prototype 3
 This was the final prototype to test with the target audience and Vasilis. I decided to change the animations from the background to look a bit more like the actual sounds (alarm moves from right to left etc.). I also played around with the font and created a sort of "crt" effect to match the style of the film. 
 
-![proto3](image1.png "proto3")
-![crt](image1.png "crt")
+![proto3](https://github.com/superstephan1/web-typografie-19-20/blob/master/1x/proto3.png "proto3")
+![crt](https://github.com/superstephan1/web-typografie-19-20/blob/master/1x/crt.png "crt")
 
 On my last prototype i got really good feedback. some of the text got a bit unreadable on the white background during the interview and that was pretty much it. Vasilis told me that this prototype was very good however he missed a part of "me". So that was my assignment for the deadline of the project.
 
@@ -37,7 +37,9 @@ during the interview. The interviewer's subtitles are aligned left and K's subti
 
 I am also a big fan of a "clean" look. So i wanted to incorporate the subtitles into the film as much as possible. So i decided to play around with the css and blend modes of the font. This gave me a very pleasing visual look.
 
-![proto4](image1.png "proto4")
+![proto4](https://github.com/superstephan1/web-typografie-19-20/blob/master/1x/proto4.png "proto4")
+![interlinked](https://github.com/superstephan1/web-typografie-19-20/blob/master/1x/cellsinterlinked.png "interlinked")
+
 
 # exclusive design principles
 
