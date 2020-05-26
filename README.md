@@ -38,7 +38,7 @@ during the interview. The interviewer's subtitles are aligned left and K's subti
 I am also a big fan of a "clean" look. So i wanted to incorporate the subtitles into the film as much as possible. So i decided to play around with the css and blend modes of the font. This gave me a very pleasing visual look.
 
 ![proto4](https://github.com/superstephan1/web-typografie-19-20/blob/master/1x/proto4.png "proto4")
-![interlinked](https://github.com/superstephan1/web-typografie-19-20/blob/master/1x/cellsinterlinked.png "interlinked")
+![interlinked](https://github.com/superstephan1/web-typografie-19-20/blob/master/1x/cellsiterlinked.png "interlinked")
 
 
 # exclusive design principles
