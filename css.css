@@ -170,15 +170,18 @@ iframe {
 .left {
 	transform: translateX(-50%);
 	left: 25% !important;
-	max-width: 10em;
+	/*min-width: 10em;*/
+	/*max-width: 10em;*/
+	width: 10em;
 	animation: textShadow 20s infinite !important;
 	margin-top: -10em;
 }
 
 .right {
 	transform: translateX(-50%);
-	left: 75% !important;
-	max-width: 10em;
+	left: 80% !important;
+	/*max-width: 10em;*/
+	width: 10em;
 	margin-top: -10em !important;
 }
 
@@ -548,6 +551,7 @@ iframe {
 .sound9::before {
     animation: opacity9 30s ease;
     opacity: 0;
+	margin-bottom: 1em;
     content: "[high pitched noise getting louder]";
     color: white;
 }
@@ -562,9 +566,45 @@ iframe {
 	100% { background-color: #000000; }
 }
 
+@keyframes fadeIt9 {
+	0%   { background-color: #000000; }
+	50%  { background-color: #232323; }
+	100% { background-color: #000000; }
+}
+
+@keyframes infiniteShake {
+	0% { transform: translate(1px, 1px)  }
+	10% { transform: translate(0px, 0px)  }
+	20% { transform: translate(1px, 1px)  }
+	30% { transform: translate(0px, 0px)  }
+	40% { transform: translate(1px, 1px)  }
+	50% { transform: translate(0px, 0px)  }
+	60% { transform: translate(1px, 1px)  }
+	70% { transform: translate(0px, 0px)  }
+	80% { transform: translate(1px, 1px) }
+	90% { transform: translate(0px, 0px)  }
+	100% { transform: translate(1px, 1px)  }
+}
+
+.sound10::before {
+	opacity: 0;
+	margin-bottom: 1em;
+	content: "[♪ High pitched distopian music ♪]";
+	color: white;
+}
+
 .sound10 {
 	animation: fadeIt8 10s ease infinite;
 }
+
+.sound10 iframe {
+	animation: infiniteShake 1s ease infinite;
+}
+
+.sound11 {
+	animation: fadeIt9 5s ease infinite;
+}
+
 
 
 body {
